@@ -1,0 +1,39 @@
+.banner {
+  background-image:url(../../images/iceland.jpg) ;
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+.container {
+  text-align: left;
+  margin-left: 40px
+}
+.banner p {
+  color: ;
+}
+.banner h1 {
+  color: black;
+  text-shadow: 0 0 5 lightblue;
+}
+..banner p {
+  color: #47504e;
+  text-shadow: 0 0 5 rgb(95, 106, 109);
+}
+.banner h1 {
+  margin-bottom: 5px;
+}
+.banner p {
+  margin-top: 0px;
+}
+.btn {
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 15px 25px;
+  border-radius: 15px;
+  font-weight: bold;
+  background: #2454a8;
+  opacity: 0.9;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 20px;
+}

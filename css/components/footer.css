@@ -1,0 +1,29 @@
+.footer {
+  background-color: #2b4961;
+  color: aliceblue;
+  text-align: center;
+  padding: 50px;
+}
+.footer h3 {
+  margin-top:120px;
+}
+.footer a {
+  color: #93A9AF;
+  padding: 40px;
+  border-radius: 6px;
+  /* box-shadow: 0 10px 30px rgba(0,0,0,.1); */
+  border-color: #93A9AF;
+  text-align: center;
+  margin-top: 100px ;
+  font-size: 80px;
+}
+.footer a:hover {
+  color:#9e90a2 ;
+}
+
+
+/* .container i {
+  font-size:medium;
+  display:inline;
+  text-align: center;
+} */

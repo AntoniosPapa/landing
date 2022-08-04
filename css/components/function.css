@@ -1,0 +1,26 @@
+.how-it-works h2 {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.step-1, .step-2, .step-3{
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 7px rgb(157, 150, 150);
+  text-align: center;
+  padding: 20px;
+  border: 2px solid rgb(230,230,230);
+  margin-bottom: 15px;
+}
+.step-1 img, .step-2 img, .step-3 img {
+  height: 50px;
+  width: 50px;
+  margin: 0 auto;
+}
+.step-1 h3 .step-1 p {
+  text-align: center;
+}
+.flexing {
+  display: flex;
+  justify-content: space-evenly;
+}
